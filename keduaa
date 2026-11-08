@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>protofolio vasti </title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body>
+     <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#6366f1"/>
+  <text x="100" y="125" font-size="80" font-family="Arial, sans-serif"
+        font-weight="bold" text-anchor="middle" fill="#ffffff">R</text>
+        </svg>
+        <h1>Halo, namaku vasti </h1>
+    <p>sarjana teknik informatika .</p>
+<body class="min-h-screen bg-slate-100 text-slate-800">
+  <div class="mx-auto max-w-md px-4 py-10">
+</div>
+<header class="flex flex-col items-center text-center">
+  <img src="avatar.svg" alt="Foto profil Nama Kamu"
+       class="h-24 w-24 rounded-full shadow ring-4 ring-white">
+  <h1 class="mt-4 text-2xl font-bold">raina vasti kusuma wardani</h1>
+  <p class="mt-1 text-sm text-slate-500">Mahasiswa IT · Belajar web development</p>
+</header>
+<nav aria-label="Media sosial" class="mt-6">
+  <ul class="flex justify-center gap-3">
+    <li>
+      <a href="https://github.com/rainavasti/RAINA-VASTI-.git"aria-label="GitHub"
+         class="flex h-11 w-11 items-center justify-center rounded-full bg-white text-xl shadow-sm ring-1 ring-slate-200">🐙</a>
+    </li>
+    <li>
+      <a href=" https://www.instagram.com/raiiiii_na_28?mdxt=MTRzc2N3NGo2OTltYQ=="aria-label="Instagram"
+         class="flex h-11 w-11 items-center justify-center rounded-full bg-white text-xl shadow-sm ring-1 ring-slate-200">📸</a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/raina-vasti -kusumawardani-5a29452bb" aria-label="LinkedIn"
+         class="flex h-11 w-11 items-center justify-center rounded-full bg-white text-xl shadow-sm ring-1 ring-slate-200">💼</a>
+    </li>
+  </ul>
+</nav>
+<main>
+  <h2 class="mt-8 text-sm font-semibold uppercase tracking-wide text-slate-500">Link Saya</h2>
+
+  <ul class="mt-3 space-y-3">
+    <li>
+      <a href="https://example.com/portfolio"
+         class="flex items-center justify-center gap-3 rounded-xl bg-white px-5 py-4 font-medium shadow-sm ring-1 ring-slate-200">
+        <span aria-hidden="true">🎨</span> Portofolio
+      </a>
+    </li>
+  </ul>
+  <footer class="mt-10 text-center text-xs text-slate-400">
+  <p>© vasti </p>
+</footer>
+</main>
+
+
+
+</body>
+</div>
+
+   
+</body>
+</html>
